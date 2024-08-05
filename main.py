@@ -20,6 +20,7 @@ def cortegei_10_RND_s_proverkoi():
                     proverka = False
                     break
             else:
+
                 proverka = True
                 # print(x, y, 'не совпадает с ', item[0], item[1])
                 # print(cart)
